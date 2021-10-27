@@ -1,0 +1,52 @@
+@-moz-document domain("discord.com") {
+.guilds-1SWlCJ {
+  margin-left: -67px;
+  transition: ease 500ms margin-left;
+  transition-delay: 100ms;
+}
+.guilds-1SWlCJ:hover {
+  margin-left: 0;
+}
+.sidebar-2K8pFh {
+  margin-left: -235px;
+  transition: ease 500ms margin-left;
+  transition-delay: 100ms;
+}
+.sidebar-2K8pFh:hover {
+  margin-left: 0;
+}
+.attachWrapper-2TRKBi {
+  order: 1;
+}
+.buttons-3JBrkn {
+  display: none;
+}
+.channelTextArea-rNsIhG {
+  margin-bottom:  8px !important;
+}
+.toolbar-1t6TWx {
+  display: none;
+}
+
+.title-3qD0b- {
+  display: none;
+}
+
+.scrollerSpacer-avRLaA {
+  height: 12px;
+}
+
+.attachButton-2WznTc {
+  height: 32px;
+}
+
+.slateTextArea-1Mkdgw,.placeholder-37qJjk {
+  padding-bottom: 4px !important;
+  padding-top: 5px !important;
+}
+
+.textArea-12jD-V {
+  min-height: 32px;
+  height: 32px !important;
+}
+}
